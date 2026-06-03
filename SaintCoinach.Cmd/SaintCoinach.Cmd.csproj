@@ -46,30 +46,7 @@
       <HintPath>..\packages\Tharga.Toolkit.Console.1.4.5.0\lib\net45\Tharga.Toolkit.Console.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Commands\HDUiCommand.cs" />
-    <Compile Include="Commands\AllExdCommand.cs" />
-    <Compile Include="Commands\AllExdRawCommand.cs" />
-    <Compile Include="Commands\BgmCommand.cs" />
-    <Compile Include="Commands\ExdCommand.cs" />
-    <Compile Include="Commands\ExdHeaderCommand.cs" />
-    <Compile Include="Commands\FurnitureExpCommand.cs" />
-    <Compile Include="Commands\LanguageCommand.cs" />
-    <Compile Include="Commands\ImageCommand.cs" />
-    <Compile Include="Commands\MapCommand.cs" />
-    <Compile Include="Commands\RawExdCommand.cs" />
-    <Compile Include="Commands\SqlExport.cs" />
-    <Compile Include="ExdHelper.cs" />
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <DependentUpon>Settings.settings</DependentUpon>
-    </Compile>
-    <Compile Include="Commands\RawCommand.cs" />
-    <Compile Include="Commands\UiCommand.cs" />
-  </ItemGroup>
+
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>
