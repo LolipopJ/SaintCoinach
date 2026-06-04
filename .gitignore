@@ -238,3 +238,6 @@ $RECYCLE.BIN/
 # JetBrains
 .idea
 SaintCoinach.Cmd/Properties/launchSettings.json
+
+# Script output
+rawexd_output/
